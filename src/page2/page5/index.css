@@ -1,0 +1,320 @@
+@import url('https://fonts.googleapis.com/css2?family=Kanit:wght@100;200;300&display=swap');
+.icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1540px;
+  height: 400px;
+  object-fit: cover;
+}
+.page-5-child,
+.page-5-item {
+  position: absolute;
+  top: 0;
+  left: 200px;
+  width: 1147px;
+  height: 99px;
+}
+.page-5-item {
+  top: 17px;
+  left: 1100px;
+  width: 190px;
+  height: 42px;
+}
+.div {
+  position: absolute;
+  top: 27px;
+  left: 1115px;
+  font-family: 'Kanit', sans-serif;
+  
+}
+.ellipse-icon,
+.page-5-child1 {
+  position: absolute;
+  top: 24px;
+  left: 250px;
+  width: 100px;
+  height: 40px;
+}
+.page-5-child1 {
+  top: 26px;
+  left: 290px;
+  width: 60px;
+  height: 35px;
+}
+.icon1,
+.language-centre-icon {
+  position: absolute;
+  top: 34px;
+  left: 263px;
+  width: 80px;
+  height: 27px;
+  font-family: 'Kanit', sans-serif;
+}
+.icon1 {
+  top: 28.49px;
+  left: 186.81px;
+  width: 104.59px;
+  height: 10.16px;
+}
+.line-1-stroke,
+.line-2-stroke {
+  position: absolute;
+  top: 42px;
+  left: 348px;
+  width: 96px;
+  height: 1px;
+}
+.line-2-stroke {
+  top: 45px;
+  left: 340px;
+  width: 104px;
+}
+.p {
+  margin: 0;
+  font-family: 'Kanit', sans-serif;
+  font-size: 30px;
+  top: 160px;
+}
+.div1 {
+  position: absolute;
+  top: 150px;
+  left: 120px;
+  white-space: pre-wrap;
+}
+.icon2,
+.icon3 {
+  position: absolute;
+  top: 427.54px;
+  left: 124.27px;
+  width: 204.83px;
+  height: 30.82px;
+}
+.icon3 {
+  top: 967.67px;
+  left: 142.82px;
+  width: 69.23px;
+  height: 28.69px;
+}
+.icon4,
+.icon5,
+.icon6 {
+  position: absolute;
+  top: 803.26px;
+  left: 144.2px;
+  width: 245.64px;
+  height: 30.1px;
+}
+.icon5,
+.icon6 {
+  top: 660.42px;
+  left: 139.22px;
+  width: 476.16px;
+  height: 44.88px;
+}
+.icon6 {
+  top: 853.08px;
+  left: 142.19px;
+  width: 256.79px;
+  height: 20.47px;
+}
+.image-64-icon,
+.line-21-stroke {
+  position: absolute;
+  top: 466px;
+  left: 366px;
+  width: 111px;
+  height: 1px;
+}
+.image-64-icon {
+  top: 528px;
+  left: 141px;
+  width: 55px;
+  height: 61px;
+  object-fit: cover;
+}
+.libartslcgmailcom-icon {
+  position: absolute;
+  top: 1015px;
+  left: 142.53px;
+  width: 186.74px;
+  height: 19.32px;
+}
+.image-63-icon,
+.image-69-icon {
+  position: absolute;
+  top: 739px;
+  left: 144px;
+  width: 50px;
+  height: 50px;
+  object-fit: cover;
+}
+.image-63-icon {
+  top: 547px;
+  left: 674px;
+  width: 538px;
+  height: 403px;
+}
+.rectangle-div {
+  position: absolute;
+  top: 1123px;
+  left: 10px;
+  border-radius: var(--br-8xs);
+  background-color: var(--color-dimgray);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 1500px;
+  height: 279px;
+}
+.div2 {
+  position: absolute;
+  top: 1248px;
+  left: 120px;
+  font-size: var(--font-size-xl);
+  display: inline-block;
+  width: 413px;
+  font-family: 'Kanit', sans-serif;
+}
+.image-67-icon {
+  position: absolute;
+  top: 1402px;
+  left: 0;
+  width: 1500px;
+  height: 500px;
+  object-fit: cover;
+}
+.div3,
+.ext-1681,
+.libartslcgmailcom {
+  position: absolute;
+  top: 1292px;
+  left: 1019px;
+  display: inline-block;
+  width: 158px;
+  height: 19px;
+  font-family: 'Kanit', sans-serif;
+}
+.div3,
+.ext-1681 {
+  top: 1191px;
+  left: 120px;
+  color: var(--color-goldenrod);
+  width: 130px;
+}
+.ext-1681 {
+  top: 1238px;
+  left: 1019px;
+  width: 186px;
+}
+.image-70-icon {
+  position: absolute;
+  top: 903px;
+  left: 141px;
+  width: 53px;
+  height: 54px;
+  object-fit: cover;
+}
+.rectangle-icon {
+  position: absolute;
+  top: 1317px;
+  left: 116px;
+  border-radius: var(--br-26xl);
+  width: 138px;
+  height: 42px;
+}
+.div4{
+ font-size: 30px;
+
+}
+.div4,
+.div5,
+.div6 {
+  position: absolute;
+  top: 147px;
+  left: 120px;
+  font-family: 'Kanit', sans-serif;
+}
+.div5,
+.div6 {
+  top: 29px;
+  left: 950px;
+  font-family: 'Kanit', sans-serif;
+}
+.div6 {
+  top: 28px;
+  left: 800px;
+  font-family: 'Kanit', sans-serif;
+}
+.div10,
+.div11,
+.div7,
+.div8,
+.div9 {
+  position: absolute;
+  top: 28px;
+  left: 600px;
+  font-family: 'Kanit', sans-serif;
+}
+.div10,
+.div11,
+.div8,
+.div9 {
+  left: 510px;
+  font-family: 'Kanit', sans-serif;
+}
+.div10,
+.div11,
+.div9 {
+  left: 670px;
+  font-family: 'Kanit', sans-serif;
+}
+.div10,
+.div11 {
+  top: 27px;
+  left: 750px;
+  font-family: 'Kanit', sans-serif;
+}
+.div11 {
+  top: 610px;
+  left: 139px;
+  font-size: var(--font-size-17xl);
+  color: var(--color-black);
+  font-family: 'Kanit', sans-serif;
+}
+.page-5 {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 1900px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-base);
+  color: var(--color-white);
+  font-family: var(--font-inter);
+}
+.text{position: absolute;
+  top: 30px;
+  left: 340px;
+  width: 300px;
+  height: 15px;
+  font-size: 4px;
+  font-family: 'Kanit', sans-serif;
+
+}
+.col-lg-7 {
+  
+  margin-top: 520px;
+  left: 700px;
+  margin-left: 700px;
+
+}
+.text1{
+  position: absolute;
+  top: 1323px;
+  left: 137px;
+  border-radius: var(--br-26xl);
+  width: 138px;
+  height: 42px;
+  font-size: 20px;
+  font-family: 'Kanit', sans-serif;
+}
+
