@@ -271,9 +271,11 @@ p,
 }
 
 .footer {
-    background-image: url("assets/footer.png");
-    margin-top: 340px;
-
+    background-image: url("assets/ft.png");
+    height: 500px;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    margin-top: 345px;
 }
 
 .logo-footer {
@@ -380,7 +382,7 @@ p,
     font-style: normal;
     font-weight: 400;
     font-size: 6px;
-    line-height: 14px;
+    line-height: 4px;
     text-decoration: none;
 
     color: rgba(0, 0, 0, 0.5);
@@ -406,7 +408,7 @@ p,
 #ct2,
 #ct3 {
     position: absolute;
-    width: 158px;
+    width: 70px;
     height: 24px;
     left: 325px;
 
@@ -441,9 +443,12 @@ p,
     top: 470px;
 }
 
-#fb,#tw,#ig,#gg {
+#fb,
+#tw,
+#ig,
+#gg {
     position: absolute;
-    width: 158px;
+    width: 10px;
     height: 24px;
     top: 430px;
 
@@ -462,8 +467,9 @@ p,
 
 #ig {
     left: 475px;
+
 }
 
-#gg{
+#gg {
     left: 500px;
 }
