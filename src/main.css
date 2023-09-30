@@ -68,7 +68,7 @@ h4 {
     font-family: 'Kanit';
     font-style: normal;
     font-weight: 400;
-    font-size: 15px;
+    font-size: 16px;
     line-height: 22px;
 
     color: rgba(0, 0, 0, 0.5);
@@ -270,7 +270,7 @@ button:hover {
     position: absolute;
     width: 350px;
     height: 34px;
-    left: 0;
+    left: 10px;
     top: 42px;
     text-align: center;
 
@@ -413,15 +413,16 @@ li {
 
 .col-contact {
     position: absolute;
-    width: 150px;
+    width: 200px;
     height: 32.62px;
     left: 880px;
     top: 990px;
+    line-height: 36px;
 }
 
 .col-media {  
     position: absolute;
-    width: 150px;
+    width: 250px;
     height: 32.62px;
     left: 1125px;
     top: 990px;
@@ -435,9 +436,65 @@ li {
     width: 150px;
 }
 
-span {
-    display: flex;
+.widget-media {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
 }
+
+.wgd {
+    float: left;
+}
+
+.wdg,
+#fb,
+#tw,
+#ig,
+#gg {
+    display: block;
+    text-align: center;
+    width: 30px;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+.wdg
+#fb:hover,
+#tw:hover,
+#ig:hover,
+#gg:hover {
+    cursor: pointer;
+    transition-duration: 320ms;
+}
+
+#txt {
+    font-family: 'Kanit';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+
+    color: rgba(0, 0, 0, 0.5);
+}
+
+.fa {
+    color: rgba(0, 0, 0, 0.5);
+}
+
+#txt:hover {
+    margin-left: 21px;
+    color: orange;
+    cursor: pointer;
+    transition-duration: 320ms;
+}
+
+.fa:hover {
+    margin-left: 21px;
+    color: orange;
+    cursor: pointer;
+    transition-duration: 320ms;
+}
+
 
 
 
